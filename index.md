@@ -4,20 +4,20 @@
 
 ### Graduate School Assignments 
 
-[Clustering](/sample_page)
+[Clustering](/pdf/STA 6704 HW 4.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[NBA Home vs Away](/pdf/sample_presentation.pdf)
+[NBA Home vs Away](/pdf/STA 6704 Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[London Bike Rentals](http://example.com/)
+[London Bike Rentals](/pdf/STA 6709 HW 3.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-[US Spatial Polygons](http://example.com/)
+[US Spatial Polygons](/pdf/STA 6709 HW 4.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
