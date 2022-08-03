@@ -2,7 +2,7 @@
 
 ---
 
-### Graduate School Assignments 
+### Graduate School Assignments (with previews)
 
 [Clustering](/pdf/STA 6704 HW 4.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
