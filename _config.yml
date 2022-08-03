@@ -3,6 +3,7 @@ logo: "/images/ken-6933.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   MS in Data Science from UCF
+  
   <a href="https://www.linkedin.com/in/kenzhao08/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
