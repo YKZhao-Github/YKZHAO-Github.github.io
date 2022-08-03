@@ -2,25 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Graduate School Assignments 
 
-[Project 1 Title](/sample_page)
+[Clustering](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NBA Home vs Away](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[London Bike Rentals](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
+[US Spatial Polygons](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-
-
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
